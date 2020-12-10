@@ -1,4 +1,5 @@
 # check80
+(This is for Japanese user)
 This Python program patrols real estate information websites and checks the latest information on the sale of land with a building coverage ratio of 80% and reports via LINE notify service.
 
 ## Requirement
