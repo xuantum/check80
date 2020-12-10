@@ -12,9 +12,9 @@ LINE notify token
 
 ## Setup
 Rewrite LINE notify tokens(token).  
-Rewrite URL lists(urls_<name>).  
+Rewrite URL lists(urls_xxxx).  
 Rewrite Kanji name dictionary(dict_kanji).  
-Place <name>_history.txt as empty.  
+Place xxxx_history.txt as empty.  
 
 ## Usage
 python check80.py
