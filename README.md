@@ -23,9 +23,7 @@ python check80.py
 When the history file grows larger, clear the contents.
 
 ## License
-This software is released under the MIT License, see LICENSE.
-https://opensource.org/licenses/mit-license.php
+This software is released under [the MIT License](https://opensource.org/licenses/mit-license.php)
 
 ## Author
-xuantum
-https://github.com/xuantum
+[xuantum](https://github.com/xuantum)
