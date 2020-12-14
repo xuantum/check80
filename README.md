@@ -14,7 +14,7 @@ LINE notify token
 Rewrite LINE notify tokens(token).  
 Rewrite URL lists(urls_xxxx).  
 Rewrite Kanji name dictionary(dict_kanji).  
-Place xxxx_history.txt as empty.  
+Place xxxx_history.txt empty.  
 
 ## Usage
 python check80.py
